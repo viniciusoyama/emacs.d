@@ -33,6 +33,8 @@
                           'projectile
                           'helm-projectile
                           'autopair
+                          'spaceline
+                          'auto-complete
                           )
 
 ;; activate installed packages

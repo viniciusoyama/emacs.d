@@ -60,3 +60,6 @@
 
 (global-set-key  (kbd "M-\\") 'neotree-toggle)
 (global-set-key  (kbd "C-x b") 'helm-mini)
+
+(setq auto-save-file-name-transforms
+          `((".*" ,(concat user-emacs-directory "auto-save/") t))) 
