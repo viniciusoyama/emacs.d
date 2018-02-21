@@ -29,6 +29,7 @@
 (ensure-package-installed 'scss-mode
                           'sass-mode                                                                    
                           'nyan-mode
+                          'slim-mode
                           'windmove
                           'projectile
                           'helm-projectile
